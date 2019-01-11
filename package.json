@@ -1,0 +1,26 @@
+{
+  "name": "AIlotto",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "siz0001",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2",
+    "chart.js": "^2.7.3",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "vue-chartjs": "^3.4.0",
+    "vuetify": "^1.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
